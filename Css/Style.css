@@ -1,0 +1,78 @@
+*{
+   margin: 0;
+   padding: 0;
+
+}
+
+.one{
+    width: 100px;
+    height: 100px;
+    background-color:teal;
+}
+.two{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    
+}
+
+.Number{
+    display: flex;
+    justify-content:space-between;
+    text-align: center;
+    text-align: justify;
+}
+
+.three{
+    width: 100px;
+    height: 100px;
+    background-color:black;
+    justify-content: end;
+}
+.four{
+    width: 100px;
+    height: 100px;
+    background-color:teal;
+}
+.five{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    
+}
+
+.name{
+    display: flex;
+    justify-content: center;
+}
+
+.six{
+    width: 100px;
+    height: 100px;
+    background-color: palegoldenrod;
+}
+.seven{
+    width: 100px;
+    height: 100px;
+    background-color: cadetblue;
+}
+
+.big{
+    display: flex;
+    justify-content: space-around;
+}
+.eight{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin: 0 auto;
+}
+
+.bannerbg{
+    height:700px;
+    background: url(../image/pexels-penfran-37808158.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 0;
+}
